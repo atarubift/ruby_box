@@ -36,7 +36,9 @@ The numbers on the right show the percentage of matches with you.
 Continue?(1:Yes 2:No):
 ```
 Enter 1 to continue or 2 to exit. If you want to know the sample user's preference, enter 333.
+
 ---
+
 This concludes the explanation.
 
 
